@@ -42,3 +42,7 @@ Simple assignment to create login and register API
 ### Failed Login
 
 ![Failed Login](https://user-images.githubusercontent.com/51927760/133598415-fe19bc20-6cd1-4ffd-8e62-812a631ccb8d.png)
+
+## Author
+
+* [**Hrishikesh Mulkutkar**](https://github.com/Hrishikesh-3459)
