@@ -1,4 +1,4 @@
-# node_assignment
+# node Assignment
 Simple assignment to create login and register API
 
 ## Getting Started
